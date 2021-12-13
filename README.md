@@ -1,5 +1,6 @@
 # Log4J-Scan-Win
 Windows/Server Log4j Scanner - Powershell
+CVE-2021-44228
 
 Quick and dirty scanner using MD5 to ensure all Log4J locations are found even if re-named.
 
