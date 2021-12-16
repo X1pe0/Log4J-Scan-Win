@@ -51,6 +51,7 @@ b8e0d2779abbf38586b869f8b8e2eb46  ./apache-log4j-2.13.2-bin/log4j-core-2.13.2.ja
 62ad26fbfb783183663ba5bfdbfb5ace  ./apache-log4j-2.14.0-bin/log4j-core-2.14.0.jar
 3570d00d9ceb3ca645d6927f15c03a62  ./apache-log4j-2.14.1-bin/log4j-core-2.14.1.jar
 f5e2d2a9543ee3c4339b6f90b6cb01fc  ./log4j-2.0-alpha1/log4j-core-2.0-alpha1.jar
+81e0433ae00602c0e4d00424d213b0ab  ./log4j-core-2.15.0.jar
 ```
 ### Possibly Vulnerable 1.x
 ```
