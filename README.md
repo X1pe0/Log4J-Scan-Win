@@ -1,8 +1,9 @@
-# Log4J-Scan-Win
-Windows/Server Log4j Scanner - Powershell
-CVE-2021-44228
+## Log4J Scanner for Windows/PowerShell
+###### Most of the script’s I’ve seen require Yara and or Python. No dependencies needed. Simply run and view the output. Quick and dirty using MD5 hash's to ensure all Log4J locations are found even if re-named.
 
-Quick and dirty scanner using MD5 to ensure all Log4J locations are found even if re-named.
+#### MD5's listed cover both CVE-2021-45046 and CVE-2021-44228.
+
+
 
 
 
